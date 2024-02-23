@@ -13,7 +13,10 @@ This is a simple management system implemented in Java with both console and GUI
 
 ### How to Run
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine:
+ ```bash
+git clone https://github.com/ahmedanwar123/Management_System_using_Java.git
+```  
 2. Open the `Console` package.
 3. Run the `ManagementSystem` class.
 
